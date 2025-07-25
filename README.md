@@ -1,2 +1,2 @@
 # image-captioning-and-segmentation
-image captioning description
+This is about the image segmentation and captioning using the streamlit
